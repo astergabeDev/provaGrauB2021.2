@@ -1,0 +1,16 @@
+C:\Users\gabe\repos\provaGB\bin\Debug\net5.0\provaGB.exe
+C:\Users\gabe\repos\provaGB\bin\Debug\net5.0\provaGB.deps.json
+C:\Users\gabe\repos\provaGB\bin\Debug\net5.0\provaGB.runtimeconfig.json
+C:\Users\gabe\repos\provaGB\bin\Debug\net5.0\provaGB.runtimeconfig.dev.json
+C:\Users\gabe\repos\provaGB\bin\Debug\net5.0\provaGB.dll
+C:\Users\gabe\repos\provaGB\bin\Debug\net5.0\ref\provaGB.dll
+C:\Users\gabe\repos\provaGB\bin\Debug\net5.0\provaGB.pdb
+C:\Users\gabe\repos\provaGB\obj\Debug\net5.0\provaGB.csproj.AssemblyReference.cache
+C:\Users\gabe\repos\provaGB\obj\Debug\net5.0\provaGB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabe\repos\provaGB\obj\Debug\net5.0\provaGB.AssemblyInfoInputs.cache
+C:\Users\gabe\repos\provaGB\obj\Debug\net5.0\provaGB.AssemblyInfo.cs
+C:\Users\gabe\repos\provaGB\obj\Debug\net5.0\provaGB.csproj.CoreCompileInputs.cache
+C:\Users\gabe\repos\provaGB\obj\Debug\net5.0\provaGB.dll
+C:\Users\gabe\repos\provaGB\obj\Debug\net5.0\ref\provaGB.dll
+C:\Users\gabe\repos\provaGB\obj\Debug\net5.0\provaGB.pdb
+C:\Users\gabe\repos\provaGB\obj\Debug\net5.0\provaGB.genruntimeconfig.cache
