@@ -1,4 +1,5 @@
 
+QUESTÃO 1:
     1. (2,5 pontos) Implemente a hierarquia Formato como descrito pelo diagrama abaixo e por este
 texto:
     a. Cada FormaBidimensional deve conter um método getArea() que calcula sua área;
@@ -20,7 +21,7 @@ base.
 caracteres) e o caractere de preenchimento para desenhar cada forma.
 
 
-
+QUESTÃO 2:
     2. (2,5 pontos) Crie uma classe chamada Ingresso que possui um valor em reais e um método
 imprimeValor().
     a. crie uma classe VIP, que herda Ingresso e possui um valor adicional. Crie um método
